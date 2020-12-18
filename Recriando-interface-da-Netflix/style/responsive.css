@@ -122,7 +122,7 @@
         display: flex;
     }
     .footer-mobile {
-        display: block;
+        display: flex;
     }
 }
 
