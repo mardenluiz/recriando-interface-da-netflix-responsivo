@@ -176,7 +176,9 @@ footer .rede-social i {
     font-size: 30px;
     color: gray;
 }
-
+.footer-mobile {
+    display: none;
+}
 /* esconde indicadores do carousel */
 span {
     display: none !important;
