@@ -121,6 +121,9 @@
     footer {
         display: flex;
     }
+    .footer-mobile {
+        display: block;
+    }
 }
 
 @media screen and (min-width: 1000px) {
